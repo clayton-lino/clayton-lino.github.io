@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl:
+baseurl: ""
 url: "https://clayton-lino.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
