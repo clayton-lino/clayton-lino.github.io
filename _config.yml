@@ -77,4 +77,4 @@ sass:
   sass_dir: _sass
   style: :compressed
 plugins: [jekyll-paginate]
-theme: jekyll-theme-type
+remote-theme: jekyll-theme-type
